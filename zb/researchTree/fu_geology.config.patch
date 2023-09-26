@@ -1,12 +1,147 @@
 [
     {
         "op": "replace",
+        "path": "/researchTree/fu_geology/metals_copper/icon",
+        "value": "/items/generic/crafting/copperore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_iron/icon",
+        "value": "/items/generic/crafting/ironore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tungsten/icon",
+        "value": "/items/generic/crafting/tungstenore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_telebrium/icon",
+        "value": "/items/generic/crafting/moonstoneore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_silver/icon",
+        "value": "/items/generic/crafting/silverore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_gold/icon",
+        "value": "/items/generic/crafting/goldore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_titanium/icon",
+        "value": "/items/generic/crafting/titaniumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_protocite/icon",
+        "value": "/items/generic/crafting/protociteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_penumbrite/icon",
+        "value": "/items/generic/crafting/penumbriteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_zerchesium/icon",
+        "value": "/items/generic/crafting/zerchesiumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_durasteel/icon",
+        "value": "/items/generic/crafting/durasteelore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_lasombrium/icon",
+        "value": "/items/generic/crafting/corruptionore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_quietus/icon",
+        "value": "/items/generic/crafting/quietusore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_trianglium/icon",
+        "value": "/items/generic/crafting/triangliumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_irradium/icon",
+        "value": "/items/generic/crafting/irradiumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_effigium/icon",
+        "value": "/items/generic/crafting/effigiumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_aegisalt/icon",
+        "value": "/items/generic/crafting/aegisaltore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_ferozium/icon",
+        "value": "/items/generic/crafting/feroziumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_violium/icon",
+        "value": "/items/generic/crafting/violiumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_solarium/icon",
+        "value": "/items/generic/crafting/solariumore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_isogen/icon",
+        "value": "/items/generic/crafting/isogenore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_pyreite/icon",
+        "value": "/items/generic/crafting/pyreiteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_densinium/icon",
+        "value": "/items/generic/crafting/densiniumore.png"
+    },
+    {
+        "op": "replace",
         "path": "/researchTree/fu_geology/metals_crystal2/icon",
         "value": "/items/generic/crafting/siviteore.png"
     },
     {
         "op": "replace",
+        "path": "/researchTree/fu_geology/metals_lunari/icon",
+        "value": "/items/generic/crafting/solarishard.png"
+    },
+    {
+        "op": "replace",
         "path": "/researchTree/fu_geology/metals_honedlunari/icon",
-        "value": "/items/generic/crafting/precursor/honedlunari.png"
+        "value": "/items/generic/crafting/fissionfurnace/solaricrystal.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_prisilite/icon",
+        "value": "/items/generic/crafting/prisiliteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_xithricite/icon",
+        "value": "/items/generic/crafting/xithriciteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_alloy1/icon",
+        "value": "/items/generic/crafting/carbon.png"
     }
 ]
