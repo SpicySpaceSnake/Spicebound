@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_crystal2/icon",
+        "value": "/items/generic/crafting/siviteore.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_honedlunari/icon",
+        "value": "/items/generic/crafting/precursor/honedlunari.png"
+    }
+]

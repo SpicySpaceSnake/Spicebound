@@ -1,3 +1,7 @@
 [
-  { "op": "replace", "path": "/shortdescription", "value": "Quietus Helix" }
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Quietus Helix"
+    }
 ]

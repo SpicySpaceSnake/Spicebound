@@ -1,3 +1,7 @@
 [
-  { "op": "replace", "path": "/shortdescription", "value": "Xithricite Crystal" }
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Xithricite Crystal"
+  }
 ]

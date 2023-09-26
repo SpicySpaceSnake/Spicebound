@@ -1,3 +1,7 @@
 [
-  { "op": "replace", "path": "/shortdescription", "value": "^#88e25b;Tritanium Alloy^reset;" }
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "^#88e25b;Tritanium Alloy^reset;"
+  }
 ]

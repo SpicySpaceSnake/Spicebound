@@ -1,4 +1,12 @@
 [
-  { "op": "replace", "path": "/shortdescription", "value": "Protocite Ring" },
-  { "op": "replace", "path": "/description", "value": "A torus of compressed protocite, found on Protoworlds." }
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Protocite Ring"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A torus of compressed protocite, found on Protoworlds."
+  }
 ]

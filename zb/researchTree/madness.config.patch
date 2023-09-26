@@ -1,0 +1,12 @@
+[
+    {
+        "op": "replace",
+        "path": "/researchTree/frackinuniversemadness/cosmicweapons/icon",
+        "value": "/items/generic/crafting/darkmatter.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/frackinuniversemadness/cosmic2/icon",
+        "value": "/items/generic/crafting/darkmatter.png"
+    }
+]

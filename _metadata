@@ -2,9 +2,9 @@
   "version" : "0.1.0",
   "tags" : "Miscellaneous|User Interface",
   "author" : "SpicySpaceSnake",
-  "description" : "A resource pack for Frackin Universe, aiming to polish a variety of sprites with no specific theme.",
+  "description" : "A resource pack for Starbound, aiming to polish a variety of sprites from vanilla and many mods with no specific theme.",
   "name" : "spicebound_fu",
-  "friendlyName" : "SpiceBound - Frackin Universe",
+  "friendlyName" : "SpiceBound:Core",
   "steamContentId" : "",
   "link" : ""
 }
