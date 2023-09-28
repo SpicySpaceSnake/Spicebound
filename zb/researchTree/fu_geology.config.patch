@@ -1,4 +1,5 @@
 [
+    // All smelted material icons changed to respective ores
     {
         "op": "replace",
         "path": "/researchTree/fu_geology/metals_copper/icon",
@@ -116,18 +117,8 @@
     },
     {
         "op": "replace",
-        "path": "/researchTree/fu_geology/metals_crystal2/icon",
-        "value": "/items/generic/crafting/siviteore.png"
-    },
-    {
-        "op": "replace",
         "path": "/researchTree/fu_geology/metals_lunari/icon",
         "value": "/items/generic/crafting/solarishard.png"
-    },
-    {
-        "op": "replace",
-        "path": "/researchTree/fu_geology/metals_honedlunari/icon",
-        "value": "/items/generic/crafting/fissionfurnace/solaricrystal.png"
     },
     {
         "op": "replace",
@@ -139,9 +130,67 @@
         "path": "/researchTree/fu_geology/metals_xithricite/icon",
         "value": "/items/generic/crafting/xithriciteore.png"
     },
+
+    // Carbon Plating icon changed to carbon
     {
         "op": "replace",
         "path": "/researchTree/fu_geology/metals_alloy1/icon",
         "value": "/items/generic/crafting/carbon.png"
+    },
+
+    // Peerless Lunari icon changed to lunari shard
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_honedlunari/icon",
+        "value": "/items/generic/crafting/fissionfurnace/solaricrystal.png"
+    },
+    
+    // Elemental Crystals icon changed to sivite
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_crystal2/icon",
+        "value": "/items/generic/crafting/siviteore.png"
+    },
+
+    // Icons of all milestone nodes changed to custom icons
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier1/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone1.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier2/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone2.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier3/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone3.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier4/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone4.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier5/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone5.png"
+    },
+    {
+        "op": "replace",
+        "path": "/researchTree/fu_geology/metals_tier6/icon",
+        "value": "/zb/researchTree/spicebound_customIcons/geology_milestone6.png"
+    },
+
+    // Geology VIII renamed to Aetherium Alloy, and now correctly appears as tier 7
+    {
+        "op": "replace",
+        "path": "/strings/research/metals_tier8",
+        "value": [
+            "Aetherium Alloy",
+            "^orange;Tier 7^reset;\n\nHarnessing the very essence of the cosmos, you are able to form it into a new form of matter specially created to be nearly perfect. You have mastered all there is to know about this artform."
+            ]
     }
 ]
