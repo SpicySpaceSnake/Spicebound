@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Scanner's having trouble here, but it's a metal - probably Effigium."
+  }
+]
