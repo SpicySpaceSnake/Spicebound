@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An ethereal and almost invisible metal, theorized to actively repel light."
+  }
+]
