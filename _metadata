@@ -3,8 +3,10 @@
   "tags" : "Miscellaneous|User Interface",
   "author" : "SpicySpaceSnake",
   "description" : "A resource pack for Starbound, aiming to polish a variety of sprites from vanilla and many mods with no specific theme.",
-  "name" : "spicebound_fu",
-  "friendlyName" : "SpiceBound:Core",
+  "name" : "spicebound",
+  "friendlyName" : "Spicebound:Core",
+  "priority" : 9000,
+  "includes" : ["FrackinUniverse"],
   "steamContentId" : "",
   "link" : ""
 }
