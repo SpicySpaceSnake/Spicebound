@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The sole, silent guardians of most moons. Intruders are ripped apart atom by atom if they stray too close."
+  }
+]
