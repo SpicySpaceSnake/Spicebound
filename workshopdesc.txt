@@ -1,0 +1,46 @@
+[h1]Spicebound:Core 0.1.0[/h1]
+is a resource pack for Starbound. It aims to give most of the game a clean and unified aesthetic by way of many visual overhauls in one consistent style, including sleeker UI, cleaner and clearer item icons, redesigned enemies, touched-up tiles, and much more.
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[h2]What sprites does this mod overhaul?[/h2]
+This mod currently supports:
+[list]
+[*]Vanilla - [url=]TODO sprites[/url]
+[*]Frackin Universe - [url=]TODO sprites[/url]
+[*]Arcana - [url=]TODO sprites[/url]
+[/list]
+...and much more to come.
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+Spicebound is a relatively unintrusive client-side mod.
+At most, a Mod X that overrites the same files or edits the same sections of files as Spicebound may take priority over this mod if Mod X loads after it; likewise, this mod will take priority over others, though that's usually beneficial due to the nature of a texture pack.
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[hr][/hr]
+[h2]Can you add cross-mod support for X?[/h2]
+There's already a fair bit of cross-mod content that I want to do (alongside further vanilla content updates), although I don't know what exactly I'll be doing next or when I'll do it.
+Also, I'm not familiar with every mod out there! If you're the owner of (or somehow affiliated with) a mod that you want me to add support for, consider reaching out to ask.
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+The goal is to update this mod every 1-3 months at the absolute least.
+Despite the fact that I'm currently working on a much larger content mod, Spicebound is my current primary outlet for spriting practice. I do things at my leisure, but usually this ends up being quite often with a fair bit of content between updates. This also means that there's no telling what I'll do next - everything's done on a whim. I pick things to resprite almost at random or as I see things that I think need it.
+
+[b]CURRENT FOCUS:[/b] none
+[b]CURRENT STATUS:[/b] in active development
+
+[h2]Credits go to[/h2]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist and programmer
+[h3]And a special thanks to[/h3]
+[list]
+[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Starbounding!
