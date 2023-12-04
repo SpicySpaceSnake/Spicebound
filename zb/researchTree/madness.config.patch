@@ -1,9 +1,11 @@
 [
+    // Dark Matter Gear icon changed to use the dark matter item icon (instead of a custom one for some reason)
     {
         "op": "replace",
         "path": "/researchTree/frackinuniversemadness/cosmicweapons/icon",
         "value": "/items/generic/crafting/darkmatter.png"
     },
+    // Dark Matter icon changed to dark matter
     {
         "op": "replace",
         "path": "/researchTree/frackinuniversemadness/cosmic2/icon",
