@@ -1,12 +1,12 @@
 {
   "name" : "spicebound",
   "friendlyName" : "Spicebound:Core",
-  "version" : "0.1.0",
+  "version" : "1.0.0",
   "author" : "SpicySpaceSnake",
   "tags" : "Miscellaneous|User Interface",
   "description" : "A resource pack for Starbound, aiming to polish a variety of sprites from vanilla and many mods with no specific theme.",
   "priority" : 9000,
-  "includes" : ["FrackinUniverse", "Arcana"],
+  "includes" : ["FrackinUniverse", "Arcana", "XRC_BETA_STARBOUND"],
   "steamContentId" : "",
   "link" : ""
 }

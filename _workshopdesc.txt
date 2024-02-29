@@ -1,4 +1,4 @@
-[h1]Spicebound:Core 0.1.0[/h1]
+[h1]Spicebound:Core 1.0.0[/h1]
 is a resource pack for Starbound. It aims to give most of the game a clean and unified aesthetic by way of many visual overhauls in one consistent style, including sleeker UI, cleaner and clearer item icons, redesigned enemies, touched-up tiles, and much more.
 [h3]Join the Discord![/h3]
 [url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
@@ -8,6 +8,7 @@ is a resource pack for Starbound. It aims to give most of the game a clean and u
 This mod currently supports:
 [list]
 [*]Vanilla - [url=]TODO sprites[/url]
+[*]Betabound - [url=]TODO sprites[/url]
 [*]Frackin Universe - [url=]TODO sprites[/url]
 [*]Arcana - [url=]TODO sprites[/url]
 [/list]
@@ -22,7 +23,7 @@ At most, a Mod X that overrites the same files or edits the same sections of fil
 
 [hr][/hr]
 [h2]Can you add cross-mod support for X?[/h2]
-There's already a fair bit of cross-mod content that I want to do (alongside further vanilla content updates), although I don't know what exactly I'll be doing next or when I'll do it.
+There's already a fair bit of support for other mods, and more that I want to do (alongside further vanilla-related updates), although I don't know what exactly I'll be doing next or when I'll do it.
 Also, I'm not familiar with every mod out there! If you're the owner of (or somehow affiliated with) a mod that you want me to add support for, consider reaching out to ask.
 
 [hr][/hr]
@@ -37,7 +38,7 @@ Despite the fact that I'm currently working on a much larger content mod, Spiceb
 [*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist and programmer
 [h3]And a special thanks to[/h3]
 [list]
-[*][b]All of my partners[/b], for being a bunch of absolutely amazing people
+[*][b]My partners[/b], for being a bunch of absolutely amazing people
 [*][b]Najja/Dyalt, Kirisis, and many others[/b] that I've either worked with or gotten advice from, for their previous and continued support
 
 [*]and [b]YOU[/b], for taking the time to check out this mod!
