@@ -34,6 +34,7 @@ Despite the fact that I'm currently working on a much larger content mod, Spiceb
 [b]CURRENT FOCUS:[/b] none
 [b]CURRENT STATUS:[/b] in active development
 
+[hr][/hr]
 [h2]Credits go to[/h2]
 [*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): main artist and programmer
 [h3]And a special thanks to[/h3]
