@@ -14,6 +14,10 @@ This mod currently supports:
 [/list]
 ...and much more to come.
 
+[h3]More stuff![/h3]
+Check out the full suite of Spicebound mods for other cool things!
+https://steamcommunity.com/sharedfiles/filedetails/?id=3224672112
+
 [hr][/hr]
 [h2]Is this mod compatible with X?[/h2]
 Spicebound is a relatively unintrusive client-side mod.
